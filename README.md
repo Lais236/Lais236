@@ -6,6 +6,4 @@
 <div>
  <a href="https://github.com/Lais236/github-readme-stats"> <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Lais236&theme=dracula&rank_icon=github" />
   <div>
- <a href = "mailto:laisjonnsson@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
-<div>
  <a href="https://instagram.com/jonnssonlais/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
